@@ -1,0 +1,13 @@
+[
+    {
+        "name": "BTC/USDC",
+        "base_currency": "BTC",
+        "quote_currency": "USDC",
+        "address": "DW83EpHFywBxCHmyARxwj3nzxJd7MUdSeznmrdzZKNZB",
+        "base_mint": "3UNBZ6o52WTWwjac2kPUb4FyodhU1vFkRJheu1Sh2TvU",
+        "quote_mint": "8FRFC6MoGGkMFQwngccyu69VnYbzykGeez7ignHVAFSN",
+        "min_qty": 0.0001,
+        "qty_increment": 0.0001,
+        "price_increment": 0.1
+    }
+]
